@@ -1,12 +1,19 @@
 <!-- Page metadata -->
 <!-- Page title: -->
-e.g. User research
+User research
 <!-- Subtitle: -->
-e.g. How to carry out user research
+How to carry out user research
 <!-- Digital Service Standard Criteria tags: -->
-e.g. 1. Understand user needs
+1 Understand user needs
 <!-- Digital Service Standard Role tags: -->
-e.g. Content designers
+Content designers
 <!-- Article content-->
 <!-- Introductory text: -->
-e.g. This is an introduction to user research.
+This is an introduction to user research.
+## Why must I?
+<!-- Explain policy mandate, including link to authoritative sources: -->
+[Disability Discrimination Act 1992] (http://www.humanrights.gov.au/our-work/disability-rights/standards/world-wide-web-access-disability-discrimination-act-advisory)
+<!-- Checklist -->
+<!--The checklist will be generated from the subheadings in the page body. If a checklist is not appopriate note it here: -->
+- Product research
+- Strategic research
