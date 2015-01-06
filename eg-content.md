@@ -56,12 +56,10 @@ Content Cell  | Content Cell
 
 <!-- Lists -->
 * An
-* unordered
-* list
+* unordered list
 
 1. An
-2. ordered
-3. list
+2. ordered list
 
 <!-- Formatting -->
 *This text will be italic*
