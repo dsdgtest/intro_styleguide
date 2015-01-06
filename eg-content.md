@@ -19,7 +19,7 @@ User needs, Making software
 <!-- Digital Service Standard Role tags: -->
 Content designers
 
-<!-- ARTICLE CONTENT-->
+<!-- INTRODUCTION CONTENT-->
 
 <!-- Introductory text: -->
 This is an introduction to user research.
@@ -30,29 +30,32 @@ The [Disability Discrimination Act 1992] (http://www.humanrights.gov.au/our-work
 <!-- CHECKLIST OR EQUIVALENT -->
 
 ## What must I do?
-<!-- The checklist will be generated from the subheadings in the page body. If a checklist is not appopriate then note the details here: -->
+<!-- The checklist will be generated from the subheadings in the page body. -->
 * Product research
 * Strategic research
 * etc.
+
+<!-- If a checklist is not appropriate then provide the explantion as a comment here: -->
+
+<!-- DETAILED CONTENT -->
 
 <!-- Checklist item 1: -->
 ### Product research
 <!-- High-level summary text: -->
 The key information about product research...
-<!-- Provie detailed instructions. -->
+<!-- Provide detailed instructions. -->
 Detailed instructions about product research.
 
 <!-- Checklist item 2: -->
 ### Strategic research
 <!-- High-level summary text: -->
 The key information about strategic research...
-<!-- Provie detailed instructions. -->
+<!-- Provide detailed instructions. -->
 Detailed information about strategic research.
 
 <!-- OTHER CODE -->
-<!-- if required use the following code -->
 
-<!-- Images - upload the image to the repository first in the same directroy as this file -->
+<!-- Images - create a new issue in GitHub and drag a suitable image into the issue body. Paste the resulting code and update the ALT tag. -->
 ![A cartoon cat](https://cloud.githubusercontent.com/assets/8924440/5623815/56fa4b16-95ae-11e4-9c93-7808941d831c.jpg)
 
 <!-- Tables -->
