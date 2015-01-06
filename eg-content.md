@@ -1,4 +1,5 @@
 <!-- PAGE METADATA -->
+
 <!-- Page title: -->
 # User research
 <!-- Subtitle: -->
@@ -19,6 +20,7 @@ User needs, Making software
 Content designers
 
 <!-- ARTICLE CONTENT-->
+
 <!-- Introductory text: -->
 This is an introduction to user research.
 ## Why must I?
@@ -26,6 +28,7 @@ This is an introduction to user research.
 The [Disability Discrimination Act 1992] (http://www.humanrights.gov.au/our-work/disability-rights/standards/world-wide-web-access-disability-discrimination-act-advisory) mandates that...
 
 <!-- CHECKLIST OR EQUIVALENT -->
+
 ## What must I do?
 <!-- The checklist will be generated from the subheadings in the page body. If a checklist is not appopriate note it here: -->
 * Product research
@@ -46,7 +49,9 @@ The key information about product research...
 
 <!-- OTHER CODE -->
 <!-- if required use the following code -->
-<!-- Images -->
+
+<!-- Images - upload the image to the repository first in the same directroy as this file -->
+
 
 <!-- Tables -->
 First Header  | Second Header
@@ -54,14 +59,20 @@ First Header  | Second Header
 Content Cell  | Content Cell
 Content Cell  | Content Cell
 
-<!-- Lists -->
-* An
-* unordered list
+<!-- Ordered list-->
 
 1. An
-2. ordered list
+2. ordered
+3. list
+
+<!-- Unordered list -->
+
+* An
+* unordered
+* list
 
 <!-- Formatting -->
+
 *This text will be italic*
 
 **This text will be bold**
