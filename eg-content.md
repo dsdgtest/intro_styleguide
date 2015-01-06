@@ -5,10 +5,10 @@
 How to carry out user research
 <!-- Update date: -->
 Last updated 2015-01-06
-<!-- Contact with email link: -->
+<!-- Contact for article: -->
 Department of Finance Digital Team
+<!-- Email address for contact: -->
 Email: [digital@finance.gov.au](digital@finance.gov.au)
-
 <!-- Digital Service Standard Criteria tags: -->
 1 Understand user needs
 <!-- Digital Service Standard Role tags: -->
@@ -19,7 +19,7 @@ Content designers
 This is an introduction to user research.
 ## Why must I?
 <!-- Explain policy mandate, including link to authoritative sources: -->
-[Disability Discrimination Act 1992] (http://www.humanrights.gov.au/our-work/disability-rights/standards/world-wide-web-access-disability-discrimination-act-advisory)
+The [Disability Discrimination Act 1992] (http://www.humanrights.gov.au/our-work/disability-rights/standards/world-wide-web-access-disability-discrimination-act-advisory) mandates that...
 
 <!-- CHECKLIST OR EQUIVALENT -->
 ## What must I do?
