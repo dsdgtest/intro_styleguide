@@ -1,19 +1,49 @@
-<!-- Page metadata -->
+<!-- PAGE METADATA -->
 <!-- Page title: -->
-User research
+# User research
 <!-- Subtitle: -->
 How to carry out user research
+<!-- Update date: -->
+Last updated 2015-01-06
+<!-- Contact with email link: -->
+Department of Finance Digital Team
+Email: [digital@finance.gov.au](digital@finance.gov.au)
+
 <!-- Digital Service Standard Criteria tags: -->
 1 Understand user needs
 <!-- Digital Service Standard Role tags: -->
 Content designers
-<!-- Article content-->
+
+<!-- ARTICLE CONTENT-->
 <!-- Introductory text: -->
 This is an introduction to user research.
 ## Why must I?
 <!-- Explain policy mandate, including link to authoritative sources: -->
 [Disability Discrimination Act 1992] (http://www.humanrights.gov.au/our-work/disability-rights/standards/world-wide-web-access-disability-discrimination-act-advisory)
-<!-- Checklist -->
-<!--The checklist will be generated from the subheadings in the page body. If a checklist is not appopriate note it here: -->
+
+<!-- CHECKLIST OR EQUIVALENT -->
+## What must I do?
+<!-- The checklist will be generated from the subheadings in the page body. If a checklist is not appopriate note it here: -->
 - Product research
 - Strategic research
+- etc.
+
+<!-- Checklist item 1: -->
+### Product research
+<!-- High-level summary text: -->
+The key information about product research...
+<!-- Provie detailed instructions. -->
+
+<!-- Checklist item 2: -->
+### Strategic research
+<!-- High-level summary text: -->
+The key information about product research...
+<!-- Provie detailed instructions. -->
+
+<!-- ILLUSTRATIVE CONTENT 
+if required use the following code -->
+<!-- Images -->
+
+<!-- Tables -->
+
+<!-- Lists -->
