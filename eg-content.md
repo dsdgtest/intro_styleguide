@@ -51,7 +51,7 @@ The key information about product research...
 <!-- if required use the following code -->
 
 <!-- Images - upload the image to the repository first in the same directroy as this file -->
-[cat](https://cloud.githubusercontent.com/assets/8924440/5623815/56fa4b16-95ae-11e4-9c93-7808941d831c.jpg)
+![cat](https://cloud.githubusercontent.com/assets/8924440/5623815/56fa4b16-95ae-11e4-9c93-7808941d831c.jpg)
 
 <!-- Tables -->
 First Header  | Second Header
