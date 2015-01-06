@@ -30,7 +30,7 @@ The [Disability Discrimination Act 1992] (http://www.humanrights.gov.au/our-work
 <!-- CHECKLIST OR EQUIVALENT -->
 
 ## What must I do?
-<!-- The checklist will be generated from the subheadings in the page body. If a checklist is not appopriate note it here: -->
+<!-- The checklist will be generated from the subheadings in the page body. If a checklist is not appopriate then note the details here: -->
 * Product research
 * Strategic research
 * etc.
@@ -40,18 +40,20 @@ The [Disability Discrimination Act 1992] (http://www.humanrights.gov.au/our-work
 <!-- High-level summary text: -->
 The key information about product research...
 <!-- Provie detailed instructions. -->
+Detailed instructions about product research.
 
 <!-- Checklist item 2: -->
 ### Strategic research
 <!-- High-level summary text: -->
-The key information about product research...
+The key information about strategic research...
 <!-- Provie detailed instructions. -->
+Detailed information about strategic research.
 
 <!-- OTHER CODE -->
 <!-- if required use the following code -->
 
 <!-- Images - upload the image to the repository first in the same directroy as this file -->
-![cat](https://cloud.githubusercontent.com/assets/8924440/5623815/56fa4b16-95ae-11e4-9c93-7808941d831c.jpg)
+![A cartoon cat](https://cloud.githubusercontent.com/assets/8924440/5623815/56fa4b16-95ae-11e4-9c93-7808941d831c.jpg)
 
 <!-- Tables -->
 First Header  | Second Header
@@ -60,19 +62,16 @@ Content Cell  | Content Cell
 Content Cell  | Content Cell
 
 <!-- Ordered list-->
-
 1. An
 2. ordered
 3. list
 
 <!-- Unordered list -->
-
 * An
 * unordered
 * list
 
 <!-- Formatting -->
-
 *This text will be italic*
 
 **This text will be bold**
